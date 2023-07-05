@@ -14,7 +14,30 @@ You can edit the diagram on your local machine by cloning the git repository and
 
 Note that for the latter solution, you should be granted membership with appropriate rights to edit the diagram.
 
-# Conceptual model diagram
+# Main diagram
 
-![Conceptual model diagram for aggregate exposure modelling](aggregate-exposure-modelling.drawio.svg)
+![Main diagram for aggregate exposure modelling](aggregate-exposure-modelling.drawio.svg)
 
+# Sub-group: exposure event
+
+![Sub-group: exposure event](sub-group-exposure-event.drawio.svg)
+
+# Sub-group: exposure pathway
+
+![Sub-group: exposure pathway](sub-group-exposure-pathway.drawio.svg)
+
+# Sub-group: exposure route
+
+![Sub-group: exposure route](sub-group-exposure-route.drawio.svg)
+
+# Sub-group: exposure source
+
+![Sub-group: exposure source](sub-group-exposure-source.drawio.svg)
+
+# Sub-group: exposure surface
+
+![Sub-group: exposure surface](sub-group-exposure-surface.drawio.svg)
+
+# Sub-group: exposure target
+
+![Sub-group: exposure target](sub-group-exposure-target.drawio.svg)
