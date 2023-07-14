@@ -18,6 +18,10 @@ Note that for the latter solution, you should be granted membership with appropr
 
 ![Main diagram for aggregate exposure modelling](aggregate-exposure-modelling.drawio.svg)
 
+# Legend
+
+![Legend for aggregate exposure modelling diagrams](legend.drawio.svg)
+
 # Sub-group: exposure event
 
 ![Sub-group: exposure event](sub-group-exposure-event.drawio.svg)
