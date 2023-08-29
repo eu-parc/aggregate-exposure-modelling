@@ -1,7 +1,7 @@
 ---
 name: Request new term definition
 about: Textual definition of an existing term
-title: ''
+title: "[TERM definition]"
 labels: 'new: awaiting discussion in meeting'
 assignees: ''
 

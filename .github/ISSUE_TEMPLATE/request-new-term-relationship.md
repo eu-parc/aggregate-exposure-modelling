@@ -1,7 +1,7 @@
 ---
 name: Request new term relationship
 about: Propose term relationship for existing terms
-title: ''
+title: "[TERM relationship]"
 labels: 'new: awaiting discussion in meeting'
 assignees: ''
 
