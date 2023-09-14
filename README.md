@@ -4,6 +4,11 @@ This repository contains diagrams and specifications of the conceptual model for
 
 At the present stage, this repository contains a main conceptual model diagram identifying the relevant entities and relationships, several sub-diagrams in which specific parts are worked out in more detail, and a [glossary](glossary.csv) of terms and definitions of the entities of the model. This model is constructed using the established glossary of PARC AD 6.3 as a basis and alignment between the diagram and this glossary should be maintained.
 
+# Scope
+
+Currently, the scope of the aggregate exposure conceptual model is restricted to human exposure. At a later stage, the scope could be broadened to also include environmental exposures.
+There is a known overlap with the following other related domains domains in PARC: human (bio)monitoring, PBK modelling, and source-to-dose modelling.
+
 # Approach
 
 An iterative approach is proposed to design the conceptual model to ensure that it is optimized for more pragmatic use. The process is depicted in the figure below.
