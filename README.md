@@ -4,6 +4,17 @@ This repository contains diagrams and specifications of the conceptual model for
 
 At the present stage, this repository contains a main conceptual model diagram identifying the relevant entities and relationships, several sub-diagrams in which specific parts are worked out in more detail, and a [glossary](glossary.csv) of terms and definitions of the entities of the model. This model is constructed using the established glossary of PARC AD 6.3 as a basis and alignment between the diagram and this glossary should be maintained.
 
+# Approach
+
+An iterative approach is proposed to design the conceptual model to ensure that it is optimized for more pragmatic use. The process is depicted in the figure below.
+
+![Iterative approach diagram](approach-diagram.png "Iterative approach diagram")
+
+- **Conceptual model:** ideal model - logical set of nodes, edges, terminology (glossary) and their relationships
+- **Model suite (actual models available):** It represent the pragmatic interpretation available (not necessary perfect), in the context of PARC case studies.
+- **Validation:** Parameters, equations and data available to test performance & evaluate accuracy & precision of the models and (propagated) predictions.
+
+
 # Contributing
 
 You can contribute in two ways:
