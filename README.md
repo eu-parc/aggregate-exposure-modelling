@@ -6,8 +6,7 @@ At the present stage, this repository contains a main conceptual model diagram i
 
 # Scope
 
-Currently, the scope of the aggregate exposure conceptual model is restricted to human exposure. At a later stage, the scope could be broadened to also include environmental exposures.
-There is a known overlap with the following other related domains domains in PARC: human (bio)monitoring, PBK modelling, and source-to-dose modelling.
+Currently, the scope of the aggregate exposure conceptual model is restricted to human exposure. At a later stage, the scope could be broadened to also include environmental exposures. There is a known overlap with the following other related domains domains in PARC: human (bio)monitoring, toxicokinetic (TK) modelling (including PBK modelling), and source-to-dose modelling.
 
 # Approach
 
