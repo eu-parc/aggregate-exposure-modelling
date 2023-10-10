@@ -42,11 +42,21 @@ You can contribute in two ways:
 
 # Sub-group: exposure event
 
+**Exposure event:** A single event during which there is continuous contact between a substance and a target. The event is normally of a short duration (less than 24 hours). The attribute ""continuous contact"" in this context means that there is no interruption of the exposure.
+
+**Exposure duration:** The length of time over which continuous or intermittent contacts occur between a substance and a target. For example, if an individual is in contact with an agent for 10 min, it is short term exposure. If the contact is every day for 300 days over a 1-year time period, the exposure duration is 1 year; it is long-term exposure.
+
+**Exposure frequency:** The number of exposure events in an exposure duration.
+
 ![Sub-group: exposure event](diagrams/sub-group-exposure-event.drawio.svg)
 
 [(edit online)](https://app.diagrams.net/#Heu-parc%2Faggregate-exposure-modelling%2Fdevelop%2Fdiagrams%2Fsub-group-exposure-event.drawio.svg)
 
 # Sub-group: exposure pathway
+
+**Exposure scenario:** A combination of facts, assumptions, and inferences that define a discrete situation where potential exposures may occur. These may include the exposure source, the exposed target population, and the time frame of exposure, microenvironment, and activities. Scenarios are often created to aid exposure assessors in estimating exposure (WHO/IPCS, 2004).
+
+**Exposure pathway:** The course a substance takes from its source to the exposed individual or population, or a part of that course. An exposure pathway involves in general one or several transfer mechanisms from emission sources to exposure sources, and/or between several related exposure sources (e.g., from soil to food).
 
 ![Sub-group: exposure pathway](diagrams/sub-group-exposure-pathway.drawio.svg)
 
@@ -54,17 +64,23 @@ You can contribute in two ways:
 
 # Sub-group: exposure route
 
+**Exposure route:** The way in which a substance reaches an external exposure surface, starting from the exposure source. These are oral ingestion, inhalation and dermal contact. Each exposure route is generally associated with a particular absorption behaviour through the absorption barriers surface that directly or indirectly separates the external exposure surfaces (outer or inner surfaces) from the internal exposure surfaces.
+
 ![Sub-group: exposure route](diagrams/sub-group-exposure-route.drawio.svg)
 
 [(edit online)](https://app.diagrams.net/#Heu-parc%2Faggregate-exposure-modelling%2Fdevelop%2Fdiagrams%2Fsub-group-exposure-route.drawio.svg)
 
 # Sub-group: exposure source
 
+**Exposure source:** The origin of substance or a mixture for the purposes of an exposure assessment, in immediate contact with outer surfaces of exposure, to which individuals in the target population may be exposed. Examples are food, drinking water, consumer products, indoor air, outdoor air, dust and soil.
+
 ![Sub-group: exposure source](diagrams/sub-group-exposure-source.drawio.svg)
 
 [(edit online)](https://app.diagrams.net/#Heu-parc%2Faggregate-exposure-modelling%2Fdevelop%2Fdiagrams%2Fsub-group-exposure-source.drawio.svg)
 
 # Sub-group: exposure target
+
+**Exposure (target):** Any biological entity that receives an exposure or a dose (e.g., a human, a human population, or a human organ).
 
 ![Sub-group: exposure target](diagrams/sub-group-exposure-target.drawio.svg)
 
