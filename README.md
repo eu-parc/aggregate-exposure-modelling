@@ -64,12 +64,6 @@ You can contribute in two ways:
 
 [(edit online)](https://app.diagrams.net/#Heu-parc%2Faggregate-exposure-modelling%2Fdevelop%2Fdiagrams%2Fsub-group-exposure-source.drawio.svg)
 
-# Sub-group: exposure surface
-
-![Sub-group: exposure surface](diagrams/sub-group-exposure-surface.drawio.svg)
-
-[(edit online)](https://app.diagrams.net/#Heu-parc%2Faggregate-exposure-modelling%2Fdevelop%2Fdiagrams%2Fsub-group-exposure-surface.drawio.svg)
-
 # Sub-group: exposure target
 
 ![Sub-group: exposure target](diagrams/sub-group-exposure-target.drawio.svg)
