@@ -33,6 +33,14 @@ You can contribute in two ways:
 
 [(edit online)](https://app.diagrams.net/#Heu-parc%2Faggregate-exposure-modelling%2Fdevelop%2Fdiagrams%2Faggregate-exposure-modelling.drawio.svg)
 
+** Note that in the diagram some (indirect) relationships have not been included in order to keep the diagram readable.
+
+**Aggregate exposure model:** Mathematical model whose purpose is to estimate exposure at a relevant target, modelling all relevant sources and routes. If the effect is local, then in general the relevant target is an outer exposure surface, and aggregation is carried out only at exposure source level. If the effect is systemic, then aggregation is also modelled at exposure routes level, and the target is a biological matrix.
+
+**External exposure:** A combination of facts, assumptions, and inferences that define a discrete situation where potential exposures may occur. These may include the exposure source, the exposed target population, and the time frame of exposure, microenvironment, and activities. Scenarios are often created to aid exposure assessors in estimating exposure (WHO/IPCS, 2004).
+
+**Internal exposure:** The amount of substance that passes through an absorption barrier and reaches a targeted biological matrix. These include, for example, exposure of urine, blood, or even of specific organs.
+
 # Legend
 
 ![Legend for aggregate exposure modelling diagrams](diagrams/legend.drawio.svg)
@@ -51,7 +59,7 @@ You can contribute in two ways:
 
 # Sub-group: exposure event
 
-**Exposure event:** A single event during which there is continuous contact between a substance and a target. The event is normally of a short duration (less than 24 hours). The attribute ""continuous contact"" in this context means that there is no interruption of the exposure.
+**Exposure event:** A single event during which there is continuous contact between a substance and a target. The event is normally of a short duration (less than 24 hours). The attribute "continuous contact" in this context means that there is no interruption of the exposure.
 
 **Exposure duration:** The length of time over which continuous or intermittent contacts occur between a substance and a target. For example, if an individual is in contact with an agent for 10 min, it is short term exposure. If the contact is every day for 300 days over a 1-year time period, the exposure duration is 1 year; it is long-term exposure.
 
