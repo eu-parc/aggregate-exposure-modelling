@@ -35,6 +35,9 @@ You can contribute in two ways:
 
 ** Note that in the diagram some (indirect) relationships have not been included in order to keep the diagram readable.
 
+
+**Aggregate exposure model:** Mathematical model whose purpose is to estimate exposure at a relevant target, modelling all relevant sources and routes. If the effect is local, then in general the relevant target is an outer exposure surface, and aggregation is carried out only at exposure source level. If the effect is systemic, then aggregation is also modelled at exposure routes level, and the target is a biological matrix.
+
 # Legend
 
 ![Legend for aggregate exposure modelling diagrams](diagrams/legend.drawio.svg)
@@ -43,9 +46,9 @@ You can contribute in two ways:
 
 # Sub-group: external exposure
 
-**Exposure scenario:** A combination of facts, assumptions, and inferences that define a discrete situation where potential exposures may occur. These may include the exposure source, the exposed target population, and the time frame of exposure, microenvironment, and activities. Scenarios are often created to aid exposure assessors in estimating exposure (WHO/IPCS, 2004).
-
 **External exposure:** Contact between a substance and a target that takes place in a specific exposure frequency for a defined exposure duration over an exposure period, at an external exposure surface, i.e. an exposure surface located before an absorption barrierepithelia (inner or outer surfaces) (see: Exposure surface, external exposure surface).
+
+**Exposure scenario:** A combination of facts, assumptions, and inferences that define a discrete situation where potential exposures may occur. These may include the exposure source, the exposed target population, and the time frame of exposure, microenvironment, and activities. Scenarios are often created to aid exposure assessors in estimating exposure (WHO/IPCS, 2004).
 
 **Exposure pathway:** The course a substance takes from its source to the exposed individual or population, or a part of that course. An exposure pathway involves in general one or several transfer mechanisms from emission sources to exposure sources, and/or between several related exposure sources (e.g., from soil to food).
 
@@ -58,6 +61,14 @@ You can contribute in two ways:
 ![Sub-group: exposure scenario](diagrams/sub-group-exposure-scenario.drawio.svg)
 
 [(view online)](https://app.diagrams.net/#Heu-parc%2Faggregate-exposure-modelling%2Fdevelop%2Fdiagrams%2Fsub-group-exposure-scenario.drawio.svg)
+
+# Sub-group: external exposure estimate
+
+**External exposure estimate:** Numerical estimate of an external exposure.
+
+![Sub-group: external exposure](diagrams/sub-group-external-exposure-estimate.drawio.svg)
+
+[(view online)](https://app.diagrams.net/#Heu-parc%2Faggregate-exposure-modelling%2Fdevelop%2Fdiagrams%2Fsub-group-external-exposure-estimate.drawio.svg)
 
 # Sub-group: exposure route
 
@@ -84,8 +95,13 @@ You can contribute in two ways:
 [(view online)](https://app.diagrams.net/#Heu-parc%2Faggregate-exposure-modelling%2Fdevelop%2Fdiagrams%2Fsub-group-exposure-surface.drawio.svg)
 
 
-# Sub-group: internal exposure
+# Sub-group: internal exposure estimate
 
-**Aggregate exposure model:** Mathematical model whose purpose is to estimate exposure at a relevant target, modelling all relevant sources and routes. If the effect is local, then in general the relevant target is an outer exposure surface, and aggregation is carried out only at exposure source level. If the effect is systemic, then aggregation is also modelled at exposure routes level, and the target is a biological matrix.
+**Internal exposure estimate:** Numerical estimate of an external exposure.
 
 **Internal exposure:** The amount of substance that passes through an absorption barrier and reaches a targeted biological matrix. These include, for example, exposure of urine, blood, or even of specific organs.
+
+![Sub-group: internal exposure](diagrams/sub-group-internal-exposure-estimate.drawio.svg)
+
+[(view online)](https://app.diagrams.net/#Heu-parc%2Faggregate-exposure-modelling%2Fdevelop%2Fdiagrams%2Fsub-group-internal-exposure-estimate.drawio.svg)
+
