@@ -35,39 +35,29 @@ You can contribute in two ways:
 
 ** Note that in the diagram some (indirect) relationships have not been included in order to keep the diagram readable.
 
-**Aggregate exposure model:** Mathematical model whose purpose is to estimate exposure at a relevant target, modelling all relevant sources and routes. If the effect is local, then in general the relevant target is an outer exposure surface, and aggregation is carried out only at exposure source level. If the effect is systemic, then aggregation is also modelled at exposure routes level, and the target is a biological matrix.
-
-**External exposure:** A combination of facts, assumptions, and inferences that define a discrete situation where potential exposures may occur. These may include the exposure source, the exposed target population, and the time frame of exposure, microenvironment, and activities. Scenarios are often created to aid exposure assessors in estimating exposure (WHO/IPCS, 2004).
-
-**Internal exposure:** The amount of substance that passes through an absorption barrier and reaches a targeted biological matrix. These include, for example, exposure of urine, blood, or even of specific organs.
-
 # Legend
 
 ![Legend for aggregate exposure modelling diagrams](diagrams/legend.drawio.svg)
 
 [(edit online)](https://app.diagrams.net/#Heu-parc%2Faggregate-exposure-modelling%2Fdevelop%2Fdiagrams%2Flegend.drawio.svg)
 
-# Sub-group: exposure scenario
+# Sub-group: external exposure
 
 **Exposure scenario:** A combination of facts, assumptions, and inferences that define a discrete situation where potential exposures may occur. These may include the exposure source, the exposed target population, and the time frame of exposure, microenvironment, and activities. Scenarios are often created to aid exposure assessors in estimating exposure (WHO/IPCS, 2004).
 
+**External exposure:** Contact between a substance and a target that takes place in a specific exposure frequency for a defined exposure duration over an exposure period, at an external exposure surface, i.e. an exposure surface located before an absorption barrierepithelia (inner or outer surfaces) (see: Exposure surface, external exposure surface).
+
 **Exposure pathway:** The course a substance takes from its source to the exposed individual or population, or a part of that course. An exposure pathway involves in general one or several transfer mechanisms from emission sources to exposure sources, and/or between several related exposure sources (e.g., from soil to food).
 
-![Sub-group: exposure pathway](diagrams/sub-group-exposure-pathway.drawio.svg)
-
-[(edit online)](https://app.diagrams.net/#Heu-parc%2Faggregate-exposure-modelling%2Fdevelop%2Fdiagrams%2Fsub-group-exposure-pathway.drawio.svg)
-
-# Sub-group: exposure event
-
-**Exposure event:** A single event during which there is continuous contact between a substance and a target. The event is normally of a short duration (less than 24 hours). The attribute "continuous contact" in this context means that there is no interruption of the exposure.
+**Exposure factor:** Exposure factors are exposure parameters related to human behaviour and characteristics that help determine an individual's exposure to a substance.
 
 **Exposure duration:** The length of time over which continuous or intermittent contacts occur between a substance and a target. For example, if an individual is in contact with an agent for 10 min, it is short term exposure. If the contact is every day for 300 days over a 1-year time period, the exposure duration is 1 year; it is long-term exposure.
 
-**Exposure frequency:** The number of exposure events in an exposure duration.
+**Exposure event:** A single event during which there is continuous contact between a substance and a target. The event is normally of a short duration (less than 24 hours). The attribute "continuous contact" in this context means that there is no interruption of the exposure.
 
-![Sub-group: exposure event](diagrams/sub-group-exposure-event.drawio.svg)
+![Sub-group: exposure scenario](diagrams/sub-group-exposure-scenario.drawio.svg)
 
-[(edit online)](https://app.diagrams.net/#Heu-parc%2Faggregate-exposure-modelling%2Fdevelop%2Fdiagrams%2Fsub-group-exposure-event.drawio.svg)
+[(view online)](https://app.diagrams.net/#Heu-parc%2Faggregate-exposure-modelling%2Fdevelop%2Fdiagrams%2Fsub-group-exposure-scenario.drawio.svg)
 
 # Sub-group: exposure route
 
@@ -75,7 +65,7 @@ You can contribute in two ways:
 
 ![Sub-group: exposure route](diagrams/sub-group-exposure-route.drawio.svg)
 
-[(edit online)](https://app.diagrams.net/#Heu-parc%2Faggregate-exposure-modelling%2Fdevelop%2Fdiagrams%2Fsub-group-exposure-route.drawio.svg)
+[(view online)](https://app.diagrams.net/#Heu-parc%2Faggregate-exposure-modelling%2Fdevelop%2Fdiagrams%2Fsub-group-exposure-route.drawio.svg)
 
 # Sub-group: exposure source
 
@@ -83,7 +73,7 @@ You can contribute in two ways:
 
 ![Sub-group: exposure source](diagrams/sub-group-exposure-source.drawio.svg)
 
-[(edit online)](https://app.diagrams.net/#Heu-parc%2Faggregate-exposure-modelling%2Fdevelop%2Fdiagrams%2Fsub-group-exposure-source.drawio.svg)
+[(view online)](https://app.diagrams.net/#Heu-parc%2Faggregate-exposure-modelling%2Fdevelop%2Fdiagrams%2Fsub-group-exposure-source.drawio.svg)
 
 # Sub-group: exposure surface
 
@@ -91,4 +81,11 @@ You can contribute in two ways:
 
 ![Sub-group: exposure surface](diagrams/sub-group-exposure-surface.drawio.svg)
 
-[(edit online)](https://app.diagrams.net/#Heu-parc%2Faggregate-exposure-modelling%2Fdevelop%2Fdiagrams%2Fsub-group-exposure-surface.drawio.svg)
+[(view online)](https://app.diagrams.net/#Heu-parc%2Faggregate-exposure-modelling%2Fdevelop%2Fdiagrams%2Fsub-group-exposure-surface.drawio.svg)
+
+
+# Sub-group: internal exposure
+
+**Aggregate exposure model:** Mathematical model whose purpose is to estimate exposure at a relevant target, modelling all relevant sources and routes. If the effect is local, then in general the relevant target is an outer exposure surface, and aggregation is carried out only at exposure source level. If the effect is systemic, then aggregation is also modelled at exposure routes level, and the target is a biological matrix.
+
+**Internal exposure:** The amount of substance that passes through an absorption barrier and reaches a targeted biological matrix. These include, for example, exposure of urine, blood, or even of specific organs.
