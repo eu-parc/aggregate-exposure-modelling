@@ -78,10 +78,10 @@ You can contribute in two ways:
 
 [(edit online)](https://app.diagrams.net/#Heu-parc%2Faggregate-exposure-modelling%2Fdevelop%2Fdiagrams%2Fsub-group-exposure-source.drawio.svg)
 
-# Sub-group: exposure target
+# Sub-group: exposure surface
 
-**Exposure (target):** Any biological entity that receives an exposure or a dose (e.g., a human, a human population, or a human organ).
+**Exposure surface:** A surface on a target where a substance is present. A distinction could be made between the surfaces inside the body, i.e. **inner exposure surfaces**, and those outside the body, i.e. **outer exposure surfaces**, that have in common to be located before an absorption barrier. Examples of outer exposure surfaces include the exterior of an eyeball, the skin surface, and a conceptual surface over the nose and open mouth. Examples of inner exposure surfaces include the gastrointestinal tract, the respiratory tract, and the urinary tract lining. Both outer and inner exposure surfaces can be called: **external exposure surfaces**. There are also exposure surfaces behind an absorption barrier the epithelia. These include, for example, urine, blood, or even specific organs. These surfaces can be called: **internal exposure surfaces**.
 
-![Sub-group: exposure target](diagrams/sub-group-exposure-target.drawio.svg)
+![Sub-group: exposure surface](diagrams/sub-group-exposure-surface.drawio.svg)
 
-[(edit online)](https://app.diagrams.net/#Heu-parc%2Faggregate-exposure-modelling%2Fdevelop%2Fdiagrams%2Fsub-group-exposure-target.drawio.svg)
+[(edit online)](https://app.diagrams.net/#Heu-parc%2Faggregate-exposure-modelling%2Fdevelop%2Fdiagrams%2Fsub-group-exposure-surface.drawio.svg)
