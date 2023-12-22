@@ -46,21 +46,23 @@ You can contribute in two ways:
 
 # Sub-group: external exposure
 
-**External exposure:** Contact between a substance and a target that takes place in a specific exposure frequency for a defined exposure duration over an exposure period, at an external exposure surface, i.e. an exposure surface located before an absorption barrierepithelia (inner or outer surfaces) (see: Exposure surface, external exposure surface).
-
-**Exposure scenario:** A combination of facts, assumptions, and inferences that define a discrete situation where potential exposures may occur. These may include the exposure source, the exposed target population, and the time frame of exposure, microenvironment, and activities. Scenarios are often created to aid exposure assessors in estimating exposure (WHO/IPCS, 2004).
-
-**Exposure pathway:** The course a substance takes from its source to the exposed individual or population, or a part of that course. An exposure pathway involves in general one or several transfer mechanisms from emission sources to exposure sources, and/or between several related exposure sources (e.g., from soil to food).
-
-**Exposure factor:** Exposure factors are exposure parameters related to human behaviour and characteristics that help determine an individual's exposure to a substance.
+**External exposure:** Contact between a substance and a target that takes place in a specific exposure frequency for a defined exposure duration over an exposure period, at an external exposure surface, i.e. an exposure surface located before an absorption barrier epithelia (inner or outer surfaces) (see: exposure surface, external exposure surface).
 
 **Exposure duration:** The length of time over which continuous or intermittent contacts occur between a substance and a target. For example, if an individual is in contact with an agent for 10 min, it is short term exposure. If the contact is every day for 300 days over a 1-year time period, the exposure duration is 1 year; it is long-term exposure.
 
 **Exposure event:** A single event during which there is continuous contact between a substance and a target. The event is normally of a short duration (less than 24 hours). The attribute "continuous contact" in this context means that there is no interruption of the exposure.
 
-![Sub-group: exposure scenario](diagrams/sub-group-exposure-scenario.drawio.svg)
+**Exposure scenario:** A combination of facts, assumptions, and inferences that define a discrete situation where potential exposures may occur. These may include the exposure source, the exposed target population, and the time frame of exposure, microenvironment, and activities. Scenarios are often created to aid exposure assessors in estimating exposure (WHO/IPCS, 2004).
 
-[(view online)](https://app.diagrams.net/#Heu-parc%2Faggregate-exposure-modelling%2Fdevelop%2Fdiagrams%2Fsub-group-exposure-scenario.drawio.svg)
+**Exposure determinant:** Exposure determinants are a broad spectrum of factors that affect/determine the exposure of an individual. Exposure determinants may be related to specific human behaviour and characteristics, substance properties, (micro-)environmental conditions, occupational processes/activities and/or Risk Management Measures (RMMs). **Exposure factors** form a sub-class of exposure determinants that are related to specific human behaviour and characteristics.
+
+**Exposure factor:** Exposure factors are exposure parameters related to human behaviour and characteristics that help determine an individual's exposure to a substance.
+
+**Exposure pathway:** The course a substance takes from its source to the exposed individual or population, or a part of that course. An exposure pathway involves in general one or several transfer mechanisms from emission sources to exposure sources, and/or between several related exposure sources (e.g., from soil to food).
+
+![Sub-group: external exposure](diagrams/sub-group-external-exposure.drawio.svg)
+
+[(view online)](https://app.diagrams.net/#Heu-parc%2Faggregate-exposure-modelling%2Fdevelop%2Fdiagrams%2Fsub-group-external-exposure.drawio.svg)
 
 # Sub-group: external exposure estimate
 
@@ -94,7 +96,6 @@ You can contribute in two ways:
 
 [(view online)](https://app.diagrams.net/#Heu-parc%2Faggregate-exposure-modelling%2Fdevelop%2Fdiagrams%2Fsub-group-exposure-surface.drawio.svg)
 
-
 # Sub-group: internal exposure estimate
 
 **Internal exposure estimate:** Numerical estimate of an external exposure.
@@ -104,4 +105,5 @@ You can contribute in two ways:
 ![Sub-group: internal exposure](diagrams/sub-group-internal-exposure-estimate.drawio.svg)
 
 [(view online)](https://app.diagrams.net/#Heu-parc%2Faggregate-exposure-modelling%2Fdevelop%2Fdiagrams%2Fsub-group-internal-exposure-estimate.drawio.svg)
+
 
